@@ -2,5 +2,5 @@
 Мои настройки, скрипты и т. д.
 
 ```
-pkg install git
+pkg install git openssh
 ```
