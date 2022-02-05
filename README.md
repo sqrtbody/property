@@ -25,3 +25,11 @@ ssh-add ~/.ssh/id_rsa
 ```
 git clone git@github.com:sqrtbody/property.git # Получение репозитория по SSH
 ```
+- Добавил имэйл
+```
+git config --global user.email "you@example.com"
+```
+- Добавил имя юзера
+```
+git config --global user.name "Your Name"
+```
