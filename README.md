@@ -19,3 +19,9 @@ https://sendel.ru/posts/https-to-ssh-on-github/
 ```
 ssh-add ~/.ssh/id_rsa
 ```
+
+Получение репозитория по SSH
+
+```
+git clone git@github.com:sqrtbody/property.git # Получение репозитория по SSH
+```
