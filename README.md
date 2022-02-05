@@ -4,3 +4,6 @@
 ```
 pkg install git openssh
 ```
+```
+ssh-keygen
+```
