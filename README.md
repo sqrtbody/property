@@ -13,3 +13,9 @@ ssh-keygen
 ```
 eval "$(ssh-agent -s)" # активировал ключ
 ```
+
+https://sendel.ru/posts/https-to-ssh-on-github/
+
+```
+ssh-add ~/.ssh/id_rsa
+```
