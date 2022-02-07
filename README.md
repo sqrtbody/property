@@ -1,4 +1,5 @@
 Пример использования:
+https://githubhelp.com/ShamanRa/proot-distro
 
 ```
 proot-distro install --override-alias arch1 archlinux
