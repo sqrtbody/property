@@ -1,4 +1,22 @@
-# property
+Пример использования:
+
+```
+proot-distro install --override-alias arch1 archlinux
+```
+
+```
+proot-distro login arch1
+```
+
+Скопированный плагин
+
+
+
+
+
+
+
+----
 
 Мои настройки, скрипты и т. д.
 
